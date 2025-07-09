@@ -60,23 +60,15 @@ This is an e-commerce web application where users can browse products, purchase 
 
 ## 📋 Submission Instructions
 
-1. **Fork this repository**
-   - Create a **public** fork in your GitHub account.
+1. **Clone the project**
+    ```bash
+    git clone https://github.com/estefaniaMiceliQA/perch-qa-ecommerce-challenge.git
+    ```
 
-2. **Work in a new branch**
-   - Create a **new branch** for your changes with your name as branch name (e.g., `name-surname`).
-   - Do **not** commit directly to `main`.
+3. **Create a new public repository in your GitHub account and push your changes there**
 
-3. **Commit your work**
-   - Add your test cases and documentation.
-   - You may create a dedicated file (e.g., `ISSUES.md` or `FINDINGS.md`) to report anomalies or improvement suggestions.
-
-4. **DO NOT Create a Pull Request**
-   - Keep all changes in your branch only. Do not open a PR.
-
-5. **Notify us**
-   - Send an email to our team confirming completion.
-   - Include the **URL to your forked repository** and the **branch**.
+4. **Notify us**
+   - Share the public repository URL with us by email once you're done
 
 ---
 
@@ -93,19 +85,11 @@ We will evaluate your submission based on:
 
 ## 🛠️ Step-by-Step Guide
 
-1. **Fork the repository**
+1. **Clone the project**
 
-   - Click the **“Fork”** button on the top right of the GitHub page to create a copy under your own account.
-   - ✅ Yes — after forking, you still need to clone it locally to work on it.
-
-2. **Clone your forked repository**
-
-   Open your terminal and run:
-
-   ```bash
-   git clone https://github.com/<your-username>/qa-ecommerce-challenge.git
-   ```
-
+    ```bash
+    git clone https://github.com/estefaniaMiceliQA/perch-qa-ecommerce-challenge.git
+    ```
 
 3. **Navigate to the project folder**
 
