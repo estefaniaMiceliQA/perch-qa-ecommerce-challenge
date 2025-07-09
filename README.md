@@ -71,14 +71,12 @@ This is an e-commerce web application where users can browse products, purchase 
    - Add your test cases and documentation.
    - You may create a dedicated file (e.g., `ISSUES.md` or `FINDINGS.md`) to report anomalies or improvement suggestions.
 
-4. **Create a Pull Request**
-   - From your branch to your own `main` branch inside the **forked** repository.
-   - This allows us to view the diff easily.
-   - Set your name as PR name (e.g., `name-surname`).
+4. **DO NOT Create a Pull Request**
+   - Keep all changes in your branch only. Do not open a PR.
 
 5. **Notify us**
    - Send an email to our team confirming completion.
-   - Include the **URL to your forked repository** and the **Pull Request**.
+   - Include the **URL to your forked repository** and the **branch**.
 
 ---
 
