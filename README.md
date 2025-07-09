@@ -94,7 +94,7 @@ We will evaluate your submission based on:
 3. **Navigate to the project folder**
 
    ```bash
-   cd qa-ecommerce-challenge
+   cd perch-qa-ecommerce-challenge
    ```
 
 4. **Install project dependencies using Yarn**
